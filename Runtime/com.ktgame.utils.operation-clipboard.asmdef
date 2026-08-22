@@ -1,0 +1,8 @@
+{
+    "name": "com.ktgame.utils.operation-clipboard",
+    "rootNamespace": "com.ktgame.utils.operation_clipboard",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "optionalUnityReferences": []
+}

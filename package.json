@@ -1,0 +1,15 @@
+{
+  "name": "com.ktgame.utils.operation-clipboard",
+  "version": "1.0.0",
+  "displayName": "com.ktgame.utils.operation-clipboard",
+  "description": "operation-clipboard",
+  "author": {
+    "name": "ktgame",
+    "email": "khanhquang0912qh@gmail.com",
+    "url": "https://github.com/KhanhTQ-hub/com.ktgame.utils.operation-clipboard.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
